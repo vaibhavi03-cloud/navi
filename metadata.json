@@ -1,0 +1,5 @@
+{
+  "name": "Store Management Dashboard",
+  "description": "An interactive dashboard to visualize a store's floor map and manage product inventory. It provides a clean, user-friendly interface for viewing departments and handling product data with sorting capabilities.",
+  "requestFramePermissions": []
+}
